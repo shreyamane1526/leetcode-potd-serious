@@ -7,6 +7,7 @@ DSA || CP
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -36,6 +37,7 @@ DSA || CP
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0078-subsets) |
 ## Hash Table
 |  |
