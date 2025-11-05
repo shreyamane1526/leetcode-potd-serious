@@ -11,6 +11,7 @@ DSA || CP
 | [0046-permutations](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -62,4 +63,12 @@ DSA || CP
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
