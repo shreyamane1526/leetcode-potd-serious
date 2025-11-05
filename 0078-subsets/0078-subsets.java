@@ -1,19 +1,18 @@
 class Solution {
-    public void powfun(int[] nums,int i,List<List<Integer>> li,List<Integer> seq) {
+    public static void powset(List<List<Integer>> l2,List<Integer> l1,int i,int nums[]){
         if(i==nums.length){
-            li.add(new ArrayList<>(seq));
+            l2.add(new ArrayList<>(l1));
             return;
         }
-        seq.add(nums[i]);
-        powfun(nums,i+1,li,seq);
-        seq.remove(seq.size()-1);
-        powfun(nums,i+1,li,seq);
-       
+        l1.add(nums[i]);
+        powset(l2,l1,i+1,nums);
+        l1.remove(l1.size()-1);
+        powset(l2,l1,i+1,nums);
     }
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> li=new ArrayList<>();
-       List<Integer> seq=new ArrayList<>();
-     powfun(nums,0,li,seq);
-     return li;
+       List<List<Integer>> l2=new ArrayList<>();
+       List<Integer> l1=new ArrayList<>();
+       powset(l2,l1,0,nums);
+       return l2;
     }
 }
