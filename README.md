@@ -35,6 +35,7 @@ DSA || CP
 | ------- |
 | [0050-powx-n](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0412-fizz-buzz) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -45,6 +46,7 @@ DSA || CP
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0090-subsets-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -69,6 +71,7 @@ DSA || CP
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0412-fizz-buzz) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -106,6 +109,7 @@ DSA || CP
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
