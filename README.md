@@ -11,6 +11,7 @@ DSA || CP
 | [0039-combination-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0088-merge-sorted-array) |
@@ -32,6 +33,7 @@ DSA || CP
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0412-fizz-buzz) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3676-smallest-number-with-all-set-bits) |
