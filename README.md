@@ -32,6 +32,7 @@ DSA || CP
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0050-powx-n) |
+| [0412-fizz-buzz](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0412-fizz-buzz) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
@@ -65,6 +66,7 @@ DSA || CP
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0412-fizz-buzz) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Dynamic Programming
 |  |
@@ -97,4 +99,8 @@ DSA || CP
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
