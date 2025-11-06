@@ -7,6 +7,7 @@ DSA || CP
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0046-permutations) |
@@ -77,6 +78,7 @@ DSA || CP
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
