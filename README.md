@@ -6,6 +6,7 @@ DSA || CP
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0039-combination-sum) |
@@ -67,6 +68,7 @@ DSA || CP
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0412-fizz-buzz) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -105,4 +107,8 @@ DSA || CP
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0412-fizz-buzz) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
