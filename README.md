@@ -27,6 +27,7 @@ DSA || CP
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0349-intersection-of-two-arrays) |
@@ -36,6 +37,7 @@ DSA || CP
 | [0050-powx-n](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0412-fizz-buzz) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3676-smallest-number-with-all-set-bits) |
