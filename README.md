@@ -39,6 +39,7 @@ DSA || CP
 | [0067-add-binary](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0412-fizz-buzz) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -76,6 +77,7 @@ DSA || CP
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0344-reverse-string) |
