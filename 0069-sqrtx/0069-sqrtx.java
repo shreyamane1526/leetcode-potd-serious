@@ -3,7 +3,7 @@ class Solution {
         if(x<2){return x;}
         int ans=0,l=0,r=x/2;
         while(l<=r){
-            long mid=l+(r-l)/2;
+          long mid=l+(r-l)/2;
             long sq=mid*mid;
             if(x== sq){
                 return (int)mid;
