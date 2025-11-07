@@ -1,13 +1,11 @@
 class Solution {
     public int titleToNumber(String s) {
-        int i=s.length()-1;
-        int sum=0;
-        int mul=1;
-        while(i>=0){
-           sum+=mul*(s.charAt(i)-'A'+1);
-           mul*=26;
-           i--; 
+        int mul=1,ans=0;
+        for(int i=s.length()-1;i>=0;i--){
+            char ch=s.charAt(i);
+            ans+=mul*(ch-'A'+1);
+            mul*=26;
         }
-        return sum;
+        return ans;
     }
 }
