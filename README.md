@@ -38,6 +38,7 @@ DSA || CP
 | [0066-plus-one](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0412-fizz-buzz) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -81,6 +82,7 @@ DSA || CP
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0070-climbing-stairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Greedy
 |  |
@@ -119,4 +121,8 @@ DSA || CP
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
