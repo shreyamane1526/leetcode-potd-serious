@@ -1,4 +1,17 @@
 class Solution {
+    public static int fib_tabspo(int n){
+        if(n<=2){
+            return n;
+        }
+        int a=1,b=2;
+        for(int i=3;i<=n;i++){
+            int c=a+b;
+            a=b;
+            b=c;
+        }
+        return b;
+        //tc=O(n) sc=O(1);
+    }
     public static int fib_tab(int n,int dp[]){
         if(n<=2){
             return n;
@@ -8,6 +21,7 @@ class Solution {
             dp[i]=dp[i-1]+dp[i-2];
         }
         return dp[n];
+        //tc=O(N) sc=O(n);
     }
     public static int fib_memotd(int n,int dp[]){
         if(n<=2){
@@ -31,9 +45,10 @@ class Solution {
     }
     public int climbStairs(int n) {
       // return fib_rec(n);
-        int dp[]=new int[n+1];
-        Arrays.fill(dp,-1);
+        // int dp[]=new int[n+1];
+        // Arrays.fill(dp,-1);
         //return fib_memotd(n,dp);
-        return fib_tab(n,dp);
+        //return fib_tab(n,dp);
+        return fib_tabspo(n);
     }
 }
