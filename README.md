@@ -13,6 +13,7 @@ DSA || CP
 | [0039-combination-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -90,6 +91,7 @@ DSA || CP
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1013-fibonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -116,6 +118,7 @@ DSA || CP
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0169-majority-element) |
 ## Counting
 |  |
