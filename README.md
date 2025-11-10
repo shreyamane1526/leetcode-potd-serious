@@ -58,6 +58,7 @@ DSA || CP
 | [1013-fibonacci-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1013-fibonacci-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3859-maximum-product-of-two-digits](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3859-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -135,6 +136,7 @@ DSA || CP
 | [0941-sort-array-by-parity](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1019-squares-of-a-sorted-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2836-neither-minimum-nor-maximum) |
+| [3859-maximum-product-of-two-digits](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3859-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
