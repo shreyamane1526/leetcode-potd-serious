@@ -28,6 +28,7 @@ DSA || CP
 | [0561-array-partition](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0792-binary-search) |
+| [0941-sort-array-by-parity](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1019-squares-of-a-sorted-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -119,6 +120,7 @@ DSA || CP
 | [0088-merge-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0349-intersection-of-two-arrays) |
+| [0941-sort-array-by-parity](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -130,6 +132,7 @@ DSA || CP
 | [0349-intersection-of-two-arrays](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0561-array-partition) |
+| [0941-sort-array-by-parity](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1019-squares-of-a-sorted-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2836-neither-minimum-nor-maximum) |
 ## Divide and Conquer
