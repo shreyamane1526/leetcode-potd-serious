@@ -23,6 +23,7 @@ DSA || CP
 | [0169-majority-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0792-binary-search) |
@@ -120,6 +121,7 @@ DSA || CP
 | [0217-contains-duplicate](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0414-third-maximum-number) |
 ## Divide and Conquer
 |  |
 | ------- |
