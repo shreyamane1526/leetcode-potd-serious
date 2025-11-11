@@ -31,6 +31,7 @@ DSA || CP
 | [0941-sort-array-by-parity](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1019-squares-of-a-sorted-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1944-truncate-sentence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1944-truncate-sentence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2836-neither-minimum-nor-maximum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -101,6 +102,7 @@ DSA || CP
 | [0412-fizz-buzz](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0415-add-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1944-truncate-sentence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1944-truncate-sentence) |
 ## Dynamic Programming
 |  |
 | ------- |
