@@ -99,6 +99,7 @@ DSA || CP
 | [0171-excel-sheet-column-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0415-add-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -108,6 +109,7 @@ DSA || CP
 | ------- |
 | [0053-maximum-subarray](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1013-fibonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Greedy
@@ -123,6 +125,7 @@ DSA || CP
 | [0088-merge-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0392-is-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
