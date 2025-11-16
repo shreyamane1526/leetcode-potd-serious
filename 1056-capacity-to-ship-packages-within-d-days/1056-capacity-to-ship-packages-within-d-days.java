@@ -33,11 +33,12 @@ class Solution {
         int l=min,r=sum;int ans=sum;
         while(l<=r){
             int mid=l+(r-l)/2;
-            if(canComplete(weights,days,mid)==1){
+            int res=canComplete(weights,days,mid);
+            if(res==1){
                 ans=mid;
                 r=mid-1;
             }
-            else if(canComplete(weights,days,mid)==0){
+            else if(res==0){
                 l=mid+1;
             }
         }
