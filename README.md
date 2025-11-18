@@ -28,6 +28,7 @@ DSA || CP
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0561-array-partition) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0941-sort-array-by-parity) |
