@@ -31,6 +31,7 @@ DSA || CP
 | [0561-array-partition](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0561-array-partition) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0724-find-pivot-index) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1019-squares-of-a-sorted-array) |
@@ -54,6 +55,7 @@ DSA || CP
 | [0349-intersection-of-two-arrays](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0540-single-element-in-a-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
