@@ -48,6 +48,7 @@ DSA || CP
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2836-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2942-find-words-containing-character) |
+| [3024-type-of-triangle](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
@@ -83,6 +84,7 @@ DSA || CP
 | [1013-fibonacci-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1013-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3024-type-of-triangle](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -174,6 +176,7 @@ DSA || CP
 | [1019-squares-of-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1137-height-checker) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2836-neither-minimum-nor-maximum) |
+| [3024-type-of-triangle](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3024-type-of-triangle) |
 | [3859-maximum-product-of-two-digits](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3859-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
