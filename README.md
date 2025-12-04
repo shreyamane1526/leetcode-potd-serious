@@ -84,6 +84,7 @@ DSA || CP
 | [1013-fibonacci-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1013-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
