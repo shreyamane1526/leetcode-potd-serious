@@ -41,6 +41,7 @@ DSA || CP
 | [1550-three-consecutive-odds](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1550-three-consecutive-odds) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1646-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1672-richest-customer-wealth) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1944-truncate-sentence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1944-truncate-sentence) |
@@ -222,4 +223,8 @@ DSA || CP
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
