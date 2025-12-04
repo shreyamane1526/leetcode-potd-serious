@@ -135,6 +135,7 @@ DSA || CP
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1944-truncate-sentence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1944-truncate-sentence) |
 | [2942-find-words-containing-character](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3019-number-of-changing-keys) |
 ## Dynamic Programming
 |  |
 | ------- |
