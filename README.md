@@ -47,6 +47,7 @@ DSA || CP
 | [1944-truncate-sentence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1944-truncate-sentence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2836-neither-minimum-nor-maximum) |
+| [2942-find-words-containing-character](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2942-find-words-containing-character) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
@@ -131,6 +132,7 @@ DSA || CP
 | [0657-robot-return-to-origin](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0657-robot-return-to-origin) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1944-truncate-sentence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1944-truncate-sentence) |
+| [2942-find-words-containing-character](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2942-find-words-containing-character) |
 ## Dynamic Programming
 |  |
 | ------- |
