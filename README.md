@@ -113,6 +113,7 @@ DSA || CP
 | [1013-fibonacci-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1013-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1903-largest-odd-number-in-string) |
 | [2652-sum-multiples](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -174,6 +175,7 @@ DSA || CP
 | [0415-add-strings](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0657-robot-return-to-origin) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1903-largest-odd-number-in-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1903-largest-odd-number-in-string) |
 | [1944-truncate-sentence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1944-truncate-sentence) |
 | [2942-find-words-containing-character](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3019-number-of-changing-keys) |
@@ -196,6 +198,7 @@ DSA || CP
 | [0561-array-partition](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0605-can-place-flowers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1903-largest-odd-number-in-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
