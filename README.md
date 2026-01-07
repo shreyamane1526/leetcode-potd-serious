@@ -51,6 +51,7 @@ DSA || CP
 | [0717-1-bit-and-2-bit-characters](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0941-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0994-rotting-oranges) |
@@ -234,6 +235,7 @@ DSA || CP
 | [0414-third-maximum-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0561-array-partition) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1137-height-checker) |
