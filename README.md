@@ -289,6 +289,7 @@ DSA || CP
 | [0130-surrounded-regions](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1306-jump-game-iii) |
@@ -299,6 +300,7 @@ DSA || CP
 | [0200-number-of-islands](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1020-number-of-enclaves) |
@@ -316,6 +318,7 @@ DSA || CP
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
@@ -335,9 +338,14 @@ DSA || CP
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0743-network-delay-time) |
 | [2974-minimum-number-game](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2974-minimum-number-game) |
 ## Stack
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0682-baseball-game) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
