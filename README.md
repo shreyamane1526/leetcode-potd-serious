@@ -137,6 +137,7 @@ DSA || CP
 | [0090-subsets-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0268-missing-number) |
+| [0461-hamming-distance](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0461-hamming-distance) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Backtracking
 |  |
