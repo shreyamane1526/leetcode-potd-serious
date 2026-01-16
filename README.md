@@ -74,6 +74,7 @@ DSA || CP
 | [2798-number-of-employees-who-met-the-target](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2836-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2942-find-words-containing-character) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3024-type-of-triangle) |
@@ -204,6 +205,7 @@ DSA || CP
 | [0605-can-place-flowers](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0605-can-place-flowers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1903-largest-odd-number-in-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1903-largest-odd-number-in-string) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Two Pointers
 |  |
 | ------- |
@@ -245,6 +247,7 @@ DSA || CP
 | [1019-squares-of-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1137-height-checker) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2836-neither-minimum-nor-maximum) |
+| [2952-minimum-number-of-coins-to-be-added](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2974-minimum-number-game](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3024-type-of-triangle) |
 | [3859-maximum-product-of-two-digits](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3859-maximum-product-of-two-digits) |
