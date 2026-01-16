@@ -40,6 +40,7 @@ DSA || CP
 | [0283-move-zeroes](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0485-max-consecutive-ones) |
@@ -190,12 +191,14 @@ DSA || CP
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1013-fibonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0605-can-place-flowers) |
@@ -234,6 +237,7 @@ DSA || CP
 | [0268-missing-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0747-largest-number-at-least-twice-of-others) |
