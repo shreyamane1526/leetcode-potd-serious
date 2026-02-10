@@ -12,6 +12,7 @@ DSA || CP
 | [0018-4sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0046-permutations) |
@@ -146,6 +147,7 @@ DSA || CP
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0046-permutations) |
@@ -156,6 +158,7 @@ DSA || CP
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0217-contains-duplicate) |
@@ -336,6 +339,7 @@ DSA || CP
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0200-number-of-islands) |
