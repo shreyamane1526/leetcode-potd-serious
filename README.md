@@ -187,6 +187,7 @@ DSA || CP
 | [0412-fizz-buzz](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0657-robot-return-to-origin) |
+| [1021-remove-outermost-parentheses](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1021-remove-outermost-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1903-largest-odd-number-in-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1903-largest-odd-number-in-string) |
 | [1944-truncate-sentence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1944-truncate-sentence) |
@@ -366,6 +367,7 @@ DSA || CP
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1021-remove-outermost-parentheses) |
 ## Shortest Path
 |  |
 | ------- |
