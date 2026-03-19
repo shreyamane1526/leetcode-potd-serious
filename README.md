@@ -133,6 +133,7 @@ DSA || CP
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -382,5 +383,6 @@ DSA || CP
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
