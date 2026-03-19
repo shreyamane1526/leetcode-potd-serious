@@ -235,6 +235,7 @@ DSA || CP
 | [0349-intersection-of-two-arrays](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0876-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
@@ -378,4 +379,8 @@ DSA || CP
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0316-remove-duplicate-letters) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
