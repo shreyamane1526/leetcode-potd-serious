@@ -10,24 +10,25 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        // naive tc=O(2*n) sc=O(n)
-        // if(head==null || head.next==null){
-        //     return head;
-        // }
-        // ArrayDeque<Integer> s=new ArrayDeque<>();
-        // ListNode cur=head;
-        // while(cur!=null){
-        //     s.push(cur.val);
-        //     cur=cur.next;
-        // }
-        // cur=head;
-        // while(cur!=null){
-        //     cur.val=s.pop();
-        //     cur=cur.next;
-        // }
-        // return head;
+        /*********************** naive tc=O(2*n) sc=O(n)
+        if(head==null || head.next==null){
+            return head;
+        }
+        ArrayDeque<Integer> s=new ArrayDeque<>();
+        ListNode cur=head;
+        while(cur!=null){
+            s.push(cur.val);
+            cur=cur.next;
+        }
+        cur=head;
+        while(cur!=null){
+            cur.val=s.pop();
+            cur=cur.next;
+        }
+        return head;
+        ****************/
 
-        //better tc=O(1) swap approach 
+        /**************better tc=O(1) swap approach 
         if(head==null || head.next==null){
             return head;
         }
@@ -46,5 +47,21 @@ class Solution {
         }
         head.next=null;
         return cur;
+        *************************/
+        if(head==null || head.next==null){
+            return head;
+        }
+        return reverse(head);
+
+    }
+    public ListNode reverse(ListNode head){
+        if(head==null || head.next==null){
+            return head;
+        }
+        ListNode newNode=reverse(head.next);
+        ListNode front=head.next;
+        front.next=head;
+        head.next=null;
+        return newNode;
     }
 }
