@@ -179,6 +179,7 @@ DSA || CP
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0125-valid-palindrome) |
