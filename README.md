@@ -406,4 +406,12 @@ DSA || CP
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0148-sort-list) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
