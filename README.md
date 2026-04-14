@@ -61,6 +61,7 @@ DSA || CP
 | [1019-squares-of-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-number-of-enclaves](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1020-number-of-enclaves) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1137-height-checker](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1137-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1306-jump-game-iii) |
@@ -346,6 +347,7 @@ DSA || CP
 | [0802-find-eventual-safe-states](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1306-jump-game-iii) |
 ## Union Find
 |  |
@@ -373,6 +375,7 @@ DSA || CP
 | [0980-unique-paths-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2965-find-missing-and-repeated-values) |
 ## Number Theory
