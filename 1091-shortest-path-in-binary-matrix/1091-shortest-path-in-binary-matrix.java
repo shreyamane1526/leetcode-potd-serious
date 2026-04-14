@@ -3,7 +3,7 @@ class Solution {
         int dx[]={0,0,-1,1,1,1,-1,-1};
         int dy[]={1,-1,0,0,1,-1,-1,1};
         int n=grid.length;
-        Queue<int[]> pq=new ArrayDeque<>();
+        PriorityQueue<int[]> pq=new PriorityQueue<>((a,b)->Integer.compare(a[0],b[0]));
         //dis,ith row,jth col 
         pq.add(new int[]{0,0,0});
         while(!pq.isEmpty()){
