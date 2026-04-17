@@ -172,6 +172,7 @@ DSA || CP
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0242-valid-anagram) |
@@ -193,6 +194,7 @@ DSA || CP
 | [0168-excel-sheet-column-title](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0344-reverse-string) |
@@ -312,6 +314,7 @@ DSA || CP
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0208-implement-trie-prefix-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -454,4 +457,8 @@ DSA || CP
 | [0210-course-schedule-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
