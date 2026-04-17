@@ -162,6 +162,7 @@ DSA || CP
 | ------- |
 | [0001-two-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0037-sudoku-solver) |
+| [0127-word-ladder](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0141-linked-list-cycle) |
@@ -185,6 +186,7 @@ DSA || CP
 | [0014-longest-common-prefix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0171-excel-sheet-column-number) |
@@ -336,6 +338,7 @@ DSA || CP
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0207-course-schedule) |
