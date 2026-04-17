@@ -68,6 +68,7 @@ DSA || CP
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1550-three-consecutive-odds](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1550-three-consecutive-odds) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1646-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1672-richest-customer-wealth) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -100,6 +101,7 @@ DSA || CP
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
@@ -335,6 +337,7 @@ DSA || CP
 | [0802-find-eventual-safe-states](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1306-jump-game-iii) |
+| [1631-path-with-minimum-effort](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -352,6 +355,7 @@ DSA || CP
 | [1020-number-of-enclaves](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1306-jump-game-iii) |
+| [1631-path-with-minimum-effort](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1631-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
@@ -379,6 +383,7 @@ DSA || CP
 | [0994-rotting-oranges](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2965-find-missing-and-repeated-values) |
 ## Number Theory
@@ -389,6 +394,7 @@ DSA || CP
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1631-path-with-minimum-effort) |
 | [2974-minimum-number-game](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2974-minimum-number-game) |
 ## Stack
 |  |
@@ -424,6 +430,7 @@ DSA || CP
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0547-number-of-provinces) |
+| [1631-path-with-minimum-effort](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
