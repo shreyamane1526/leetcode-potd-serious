@@ -41,6 +41,7 @@ DSA || CP
 | [0283-move-zeroes](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0414-third-maximum-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0455-assign-cookies) |
@@ -146,6 +147,7 @@ DSA || CP
 | [0090-subsets-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0268-missing-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0461-hamming-distance) |
 | [0980-unique-paths-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0980-unique-paths-iii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -178,6 +180,7 @@ DSA || CP
 | [0242-valid-anagram](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0349-intersection-of-two-arrays) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -315,6 +318,7 @@ DSA || CP
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Memoization
 |  |
 | ------- |
