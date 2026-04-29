@@ -472,4 +472,8 @@ DSA || CP
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0208-implement-trie-prefix-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
