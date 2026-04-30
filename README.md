@@ -74,6 +74,7 @@ DSA || CP
 | [1672-richest-customer-wealth](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1672-richest-customer-wealth) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1732-find-the-highest-altitude](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1944-truncate-sentence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1944-truncate-sentence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -331,6 +332,7 @@ DSA || CP
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1732-find-the-highest-altitude) |
 ## Counting Sort
 |  |
 | ------- |
