@@ -50,6 +50,7 @@ DSA || CP
 | [0542-01-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0724-find-pivot-index) |
@@ -480,4 +481,8 @@ DSA || CP
 | [1148-article-views-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1757-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
