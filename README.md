@@ -7,6 +7,7 @@ DSA || CP
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0018-4sum) |
@@ -233,6 +234,7 @@ DSA || CP
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0455-assign-cookies) |
@@ -244,6 +246,7 @@ DSA || CP
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0019-remove-nth-node-from-end-of-list) |
