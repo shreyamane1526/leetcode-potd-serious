@@ -36,6 +36,7 @@ DSA || CP
 | [0162-find-peak-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0268-missing-number) |
@@ -278,6 +279,7 @@ DSA || CP
 | [0088-merge-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0242-valid-anagram) |
@@ -302,6 +304,7 @@ DSA || CP
 | [0053-maximum-subarray](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -415,6 +418,7 @@ DSA || CP
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0215-kth-largest-element-in-an-array) |
 | [0743-network-delay-time](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1631-path-with-minimum-effort) |
@@ -489,4 +493,8 @@ DSA || CP
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0643-maximum-average-subarray-i) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
