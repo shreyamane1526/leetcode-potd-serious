@@ -212,6 +212,7 @@ DSA || CP
 | [0415-add-strings](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0657-robot-return-to-origin) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1021-remove-outermost-parentheses) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1903-largest-odd-number-in-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1903-largest-odd-number-in-string) |
 | [1944-truncate-sentence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1944-truncate-sentence) |
@@ -493,6 +494,7 @@ DSA || CP
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Quickselect
 |  |
 | ------- |
