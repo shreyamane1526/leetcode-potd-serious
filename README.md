@@ -495,6 +495,7 @@ DSA || CP
 | [0620-not-boring-movies](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1633-percentage-of-users-attended-a-contest) |
