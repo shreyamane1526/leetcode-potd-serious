@@ -30,8 +30,20 @@ class Solution {
         //int maxMoney=0,idx=0,n=nums.length,cur=0, prev=-2;
         //return recur(nums,maxMoney,cur,idx,n,prev);
         int n=nums.length; 
-        int dp[]=new int[n];
-        return tabu(nums,dp);
+        // int dp[]=new int[n];
+        // return tabu(nums,dp);
+        //tabu with so
+        int prev2=nums[0];
+        if(n==1){
+            return prev2;
+        }
+        int prev1=Math.max(nums[1],nums[0]);
+        for(int i=2;i<n;i++){
+            int max=Math.max(prev1,prev2+nums[i]);
+            prev2=prev1;
+            prev1=max;
+        }
+        return prev1;
     }
 }
 /*
