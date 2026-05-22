@@ -37,6 +37,11 @@ class Solution {
        }
        return memoi(m,n,0,0,dp);
        */
+
+
+
+
+       /* Tabulation
        int dp[][]=new int[m][n];
        dp[0][0]=1;
        for(int i=0;i<m;i++){
@@ -56,5 +61,22 @@ class Solution {
         }
        }
        return dp[m-1][n-1];
+
+
+
+       */
+
+        /*tabu with SO*/
+        int dp[]=new int[n];
+        Arrays.fill(dp,1);
+        int prevCol=0;
+        for(int i=1;i<m;i++){
+            for(int j=0;j<n;j++){
+                prevCol=prevCol+dp[j];
+                dp[j]=prevCol;
+            }
+            prevCol=0;
+        }
+        return dp[n-1];
     }
 }
