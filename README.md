@@ -21,6 +21,7 @@ DSA || CP
 | [0054-spiral-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0078-subsets) |
@@ -231,6 +232,7 @@ DSA || CP
 | [0053-maximum-subarray](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -414,6 +416,7 @@ DSA || CP
 | [0037-sudoku-solver](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0542-01-matrix) |
