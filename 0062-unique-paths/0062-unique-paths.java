@@ -28,6 +28,15 @@ class Solution {
         }
         return dp[i][j]=l+r;
     }
+    int combination(int m,int n){
+        int N=m+n-2;
+        int R=m-1;
+        double ans=1;
+        for(int i=1;i<=R;i++){
+            ans=(double)ans*(N-R+i)/i;
+        }
+        return (int)ans;
+    }
     public int uniquePaths(int m, int n) {
        // return recur(m,n,0,0);
        /*
@@ -66,7 +75,7 @@ class Solution {
 
        */
 
-        /*tabu with SO*/
+        /*tabu with SO
         int dp[]=new int[n];
         Arrays.fill(dp,1);
         int prevCol=0;
@@ -78,5 +87,9 @@ class Solution {
             prevCol=0;
         }
         return dp[n-1];
+        */
+
+        //!!!!!!!!!!mein to thak gayi zzzzzzzzzzzzzzzzzzzz
+        return combination(m,n);
     }
 }
