@@ -32,6 +32,38 @@ class Solution {
         }
         return dp.get(0).get(0);
     }
+    int tabuWithSO(List<List<Integer>> Triangle,int n){
+        List<Integer> dp=new ArrayList<>();
+        int min=Integer.MAX_VALUE;
+        for(int i=0;i<n;i++){;
+            min=Integer.MAX_VALUE;
+            List<Integer> temp=new ArrayList<>();
+            for(int j=0;j<Triangle.get(i).size();j++){
+                if(i==0){
+                    temp.add(Triangle.get(i).get(j));
+                }
+                else{
+                    if(j==0){
+                        temp.add(j,dp.get(j)+Triangle.get(i).get(j));
+                    }
+                    else if(j!=i){
+                        temp.add(j,Triangle.get(i).get(j)+Math.min(dp.get(j),dp.get(j-1)));
+                    }
+                    else{
+                        temp.add(Triangle.get(i).get(j)+dp.get(j-1));
+                    }
+                }
+                if(min>temp.get(j)){
+                    min=temp.get(j);
+                }
+            }
+            for(int j=0;j<dp.size();j++){
+                dp.set(j,temp.get(j));
+            }
+            dp.add(temp.get(dp.size()));
+        }
+        return min;
+    }
     public int minimumTotal(List<List<Integer>> triangle) {
         int n=triangle.size();
         //return recur(triangle,0,0,n);
@@ -40,6 +72,7 @@ class Solution {
             dp.add(new ArrayList<>());
         }
         //return memoi(triangle,dp,0,0,n);
-        return tabu(triangle,dp);
+        //return tabu(triangle,dp);
+        return tabuWithSO(triangle,n);
     }
 }
