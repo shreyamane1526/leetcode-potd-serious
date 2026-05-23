@@ -51,6 +51,29 @@ class Solution {
         }
         return dp[m-1][n-1];
     }
+    int tabuWithSO(int grid[][],int m,int n){
+        int dp[]=new int[n];
+        for(int i=0;i<m;i++){ 
+            int prevCol=0;
+            for(int j=0;j<n;j++){
+                if(i==0 && j==0){
+                    dp[0]=grid[i][j];
+                }
+                else{
+                    int right=Integer.MAX_VALUE,down=Integer.MAX_VALUE;
+                    if(i-1>=0){
+                        right=dp[j]+grid[i][j];
+                    }
+                    if(j-1>=0){ 
+                        down=prevCol+grid[i][j];
+                    }
+                    dp[j]=Math.min(right,down);                    
+                }
+                prevCol=dp[j];            
+            }
+        }
+        return dp[n-1];
+    }
     public int minPathSum(int[][] grid) {
         int m=grid.length;
         int n=grid[0].length;
@@ -66,6 +89,10 @@ class Solution {
         }
         return memoi(grid,m,n,0,0,dp);
         */
+
+        /*
         return tabu(grid,m,n);
+        */
+        return tabuWithSO(grid,m,n);
     }
 }
