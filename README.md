@@ -64,6 +64,7 @@ DSA || CP
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0792-binary-search) |
+| [0931-minimum-falling-path-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0931-minimum-falling-path-sum) |
 | [0941-sort-array-by-parity](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0941-sort-array-by-parity) |
 | [0980-unique-paths-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0994-rotting-oranges) |
@@ -248,6 +249,7 @@ DSA || CP
 | [0435-non-overlapping-intervals](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1013-fibonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -427,6 +429,7 @@ DSA || CP
 | [0130-surrounded-regions](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0542-01-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1020-number-of-enclaves) |
