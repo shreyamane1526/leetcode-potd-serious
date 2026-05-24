@@ -35,8 +35,8 @@ class Solution {
                         dp[i][j]=matrix[i][j]+Math.min(dp[i-1][j],dp[i-1][j+1]);
                     }
                     else if(n-1!=j){
-                        int ld=matrix[i][j]+Math.min(dp[i-1][j],dp[i-1][j-1]);
-                        int rd=matrix[i][j]+Math.min(dp[i-1][j],dp[i-1][j+1]);
+                        int ld=matrix[i][j]+dp[i-1][j-1];
+                        int rd=matrix[i][j]+dp[i-1][j+1];
                         int d=matrix[i][j]+dp[i-1][j];
                         dp[i][j]=Math.min(d,Math.min(ld,rd));
                     }
