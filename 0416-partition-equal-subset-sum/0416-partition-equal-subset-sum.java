@@ -14,11 +14,6 @@ class Solution {
         }
         return false;
     }
-    //1 2 5,,,,,,2,,,,,4,,,,,,,dp
-    //1,,4
-      //0,2
-        
-      //0,4
     boolean targetSumMemoi(int nums[],int n,int tar,int dp[][]){
         if(tar==0){
             return true;
