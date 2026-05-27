@@ -48,6 +48,7 @@ DSA || CP
 | [0283-move-zeroes](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -251,6 +252,7 @@ DSA || CP
 | [0152-maximum-product-subarray](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0741-cherry-pickup) |
