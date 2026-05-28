@@ -32,23 +32,24 @@ class Solution {
     }
     int tabu(int amount,int coins[],int n){
         int dp[][]=new int[n][amount+1];
-        for(int j=0;j<n;j++){
+        for(int j=0;j<=amount;j++){
             if(j%coins[0]==0){
-                j+=j/coins[0];
+                dp[0][j]=1;
             }
         }
         for(int i=1;i<n;i++){
             for(int j=0;j<=amount;j++){
                 int notPick=dp[i-1][j];
                 int pick=0;
-                if(coins[i]<=j && dp[i-1][j]>0){
-                    pick=1+dp[i-1][j-coins[i]];
+                if(coins[i]<=j){
+                    pick=dp[i][j-coins[i]];
                 }
                 dp[i][j]=pick+notPick;
             }
         }
-        return dp[n][amount];
+        return dp[n-1][amount];
     }
+
     public int change(int amount, int[] coins) {
         int n=coins.length;
         //return recur(amount,coins,n-1);
@@ -56,6 +57,7 @@ class Solution {
         for(int i=0;i<n;i++){
             Arrays.fill(dp[i],-1);
         }
-        return memoise(amount,coins,n-1,dp);
+        //return memoise(amount,coins,n-1,dp);
+        return tabu(amount,coins,n);
     }
 }
