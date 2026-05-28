@@ -30,6 +30,25 @@ class Solution {
         int notPick=memoise(amount,coins,n-1,dp);
         return dp[n][amount]=pick+notPick;
     }
+    int tabu(int amount,int coins[],int n){
+        int dp[][]=new int[n][amount+1];
+        for(int j=0;j<n;j++){
+            if(j%coins[0]==0){
+                j+=j/coins[0];
+            }
+        }
+        for(int i=1;i<n;i++){
+            for(int j=0;j<=amount;j++){
+                int notPick=dp[i-1][j];
+                int pick=0;
+                if(coins[i]<=j && dp[i-1][j]>0){
+                    pick=1+dp[i-1][j-coins[i]];
+                }
+                dp[i][j]=pick+notPick;
+            }
+        }
+        return dp[n][amount];
+    }
     public int change(int amount, int[] coins) {
         int n=coins.length;
         //return recur(amount,coins,n-1);
