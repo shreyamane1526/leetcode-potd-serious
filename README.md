@@ -55,6 +55,7 @@ DSA || CP
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0561-array-partition) |
@@ -179,6 +180,7 @@ DSA || CP
 | [0046-permutations](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0980-unique-paths-iii) |
 ## Hash Table
 |  |
@@ -256,6 +258,7 @@ DSA || CP
 | [0392-is-subsequence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0787-cheapest-flights-within-k-stops) |
