@@ -1,6 +1,6 @@
 class Solution {
     int digitSum(int nums[]){
-        int n=nums.length,sum=0,min=Integer.MAX_VALUE;
+        int n=nums.length,min=Integer.MAX_VALUE;
         for(int i=0;i<n;i++){ 
                 int a=nums[i];
                 int r=0;
