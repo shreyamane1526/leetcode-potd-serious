@@ -92,6 +92,7 @@ DSA || CP
 | [1732-find-the-highest-altitude](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1944-truncate-sentence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1944-truncate-sentence) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2836-neither-minimum-nor-maximum) |
@@ -282,6 +283,7 @@ DSA || CP
 | [0605-can-place-flowers](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0605-can-place-flowers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1903-largest-odd-number-in-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1903-largest-odd-number-in-string) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2952-minimum-number-of-coins-to-be-added) |
 ## Two Pointers
 |  |
@@ -332,6 +334,7 @@ DSA || CP
 | [0941-sort-array-by-parity](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1137-height-checker) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2836-neither-minimum-nor-maximum) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2974-minimum-number-game](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2974-minimum-number-game) |
