@@ -190,6 +190,7 @@ DSA || CP
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0128-longest-consecutive-sequence) |
@@ -217,6 +218,7 @@ DSA || CP
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0067-add-binary) |
@@ -553,6 +555,7 @@ DSA || CP
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
