@@ -15,14 +15,13 @@ class Solution {
     }
     int slidingwindow(String s,int n){
         int r=0,l=0;
-        int ch[]=new int[256];
-        Arrays.fill(ch,-1);
+        HashMap<Character,Integer> hm=new HashMap<>();
         int max=0;
         for(l=0;l<n;l++){
-            if(ch[s.charAt(l)-'a']!=-1){
-                r=ch[s.charAt(l)-'a'];
+            if(hm.containsKey(s.charAt(l)) && hm.get(s.charAt(l))>=r){
+                r=hm.get(s.charAt(l))+1;               
             }
-            ch[s.charAt(l)-'a']=l;
+            hm.put(s.charAt(l),l);
             max=Math.max(max,l-r+1);
         }
         return max;
@@ -30,6 +29,8 @@ class Solution {
     public int lengthOfLongestSubstring(String s) {
         Set<Character> set=new HashSet<>();
         int n=s.length();
-        return brute(s,n);
+      
+        //return brute(s,n);
+        return slidingwindow(s,n);
     }
 }
