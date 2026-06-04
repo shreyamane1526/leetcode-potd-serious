@@ -159,6 +159,7 @@ DSA || CP
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3859-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -277,6 +278,7 @@ DSA || CP
 | [1013-fibonacci-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1013-fibonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -577,4 +579,8 @@ DSA || CP
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
