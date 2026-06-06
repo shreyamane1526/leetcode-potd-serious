@@ -93,6 +93,7 @@ DSA || CP
 | [1822-sign-of-the-product-of-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1944-truncate-sentence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1944-truncate-sentence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2574-left-and-right-sum-differences](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2574-left-and-right-sum-differences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2836-neither-minimum-nor-maximum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2836-neither-minimum-nor-maximum) |
@@ -397,6 +398,7 @@ DSA || CP
 | [0724-find-pivot-index](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2574-left-and-right-sum-differences) |
 ## Counting Sort
 |  |
 | ------- |
