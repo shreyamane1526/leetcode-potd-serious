@@ -55,6 +55,7 @@ DSA || CP
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0540-single-element-in-a-sorted-array) |
@@ -119,6 +120,7 @@ DSA || CP
 | [0268-missing-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0367-valid-perfect-square) |
+| [0493-reverse-pairs](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0792-binary-search) |
@@ -362,6 +364,7 @@ DSA || CP
 | [0148-sort-list](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -519,6 +522,7 @@ DSA || CP
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0493-reverse-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -585,4 +589,16 @@ DSA || CP
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
