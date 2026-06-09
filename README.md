@@ -49,6 +49,7 @@ DSA || CP
 | [0283-move-zeroes](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -122,6 +123,7 @@ DSA || CP
 | [0268-missing-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -272,6 +274,7 @@ DSA || CP
 | [0198-house-robber](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0494-target-sum) |
@@ -290,6 +293,7 @@ DSA || CP
 | [0011-container-with-most-water](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0561-array-partition) |
@@ -401,6 +405,7 @@ DSA || CP
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1732-find-the-highest-altitude) |
