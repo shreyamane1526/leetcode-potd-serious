@@ -45,6 +45,7 @@ DSA || CP
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0322-coin-change) |
@@ -120,6 +121,7 @@ DSA || CP
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0367-valid-perfect-square) |
@@ -371,6 +373,7 @@ DSA || CP
 | [0148-sort-list](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
@@ -476,6 +479,7 @@ DSA || CP
 | [0064-minimum-path-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0931-minimum-falling-path-sum) |
