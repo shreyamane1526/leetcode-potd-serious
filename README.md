@@ -95,6 +95,7 @@ DSA || CP
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1732-find-the-highest-altitude](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1901-find-a-peak-element-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1901-find-a-peak-element-ii) |
 | [1944-truncate-sentence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1944-truncate-sentence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2574-left-and-right-sum-differences) |
@@ -136,6 +137,7 @@ DSA || CP
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1646-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1901-find-a-peak-element-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -489,6 +491,7 @@ DSA || CP
 | [1091-shortest-path-in-binary-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1672-richest-customer-wealth) |
+| [1901-find-a-peak-element-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2965-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
