@@ -423,6 +423,7 @@ DSA || CP
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0207-course-schedule) |
@@ -508,6 +509,7 @@ DSA || CP
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1021-remove-outermost-parentheses) |
@@ -616,4 +618,12 @@ DSA || CP
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0493-reverse-pairs) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
