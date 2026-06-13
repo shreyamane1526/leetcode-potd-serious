@@ -1,13 +1,4 @@
 class Solution {
-    char getChar(int x,int wt[]){
-        int start='a';
-        for(int i=0;i<26;i++){
-            if(wt[i]==x){
-                return (char)(start+i);
-            }
-        }
-        return 'a';
-    }
     public String mapWordWeights(String[] words, int[] weights) {
         int n=words.length;
         StringBuilder ans=new StringBuilder();
