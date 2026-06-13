@@ -27,6 +27,26 @@ class Solution {
             temp=cur.right;
         }
     }
+    void rev(TreeNode root,List<Integer> ans){
+        if(root==null){
+            return;
+        }
+        Stack<TreeNode> s=new Stack<>();
+        TreeNode temp=root.left;
+        s.push(root);
+        while(!s.isEmpty() || temp!=null){
+            if(temp!=null){
+                s.push(temp);
+                temp=temp.left;
+            }
+            else{
+                temp=s.pop();
+                ans.add(temp.val);
+                temp=temp.right;
+            }
+        }
+        
+    }
     void helper(TreeNode cur,List<Integer> inOrderList){
         if(cur==null){
             return;
@@ -38,7 +58,8 @@ class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> ans=new ArrayList<>();
         //helper(root,ans);
-        inIterative(root,ans);
+        //inIterative(root,ans);
+        rev(root,ans);
         return ans;
     }
 }
