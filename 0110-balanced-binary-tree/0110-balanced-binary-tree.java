@@ -14,6 +14,25 @@
  * }
  */
 class Solution {
+    boolean brute(TreeNode root){
+        if(root==null){
+            return true;
+        }
+        int l=hbrute(root.left);
+        int r=hbrute(root.right);
+        if(Math.abs(l-r)>1){
+            return false;
+        }
+        return brute(root.left)&&brute(root.right);
+    }
+    int hbrute(TreeNode cur){
+        if(cur==null){
+            return 0;
+        }
+        int l=hbrute(cur.left);
+        int r=hbrute(cur.right);
+        return 1+Math.max(l,r);
+    }
     int height(TreeNode root){
         if(root==null){
             return 0;
@@ -32,6 +51,7 @@ class Solution {
         return 1+Math.max(l,r);
     }
     public boolean isBalanced(TreeNode root) {
-        return height(root)!=-1;
+        //return height(root)!=-1;
+        return brute(root);
     }
 }
