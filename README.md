@@ -335,6 +335,7 @@ DSA || CP
 | [0876-middle-of-the-linked-list](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0876-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1019-squares-of-a-sorted-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
@@ -550,6 +551,7 @@ DSA || CP
 | [0206-reverse-linked-list](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
