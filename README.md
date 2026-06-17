@@ -265,6 +265,7 @@ DSA || CP
 | [3120-count-the-number-of-special-characters-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
@@ -400,6 +401,7 @@ DSA || CP
 | [0682-baseball-game](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2974-minimum-number-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
