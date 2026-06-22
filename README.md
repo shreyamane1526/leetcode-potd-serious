@@ -227,6 +227,7 @@ DSA || CP
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -260,6 +261,7 @@ DSA || CP
 | [1021-remove-outermost-parentheses](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1903-largest-odd-number-in-string) |
 | [1944-truncate-sentence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1944-truncate-sentence) |
@@ -394,6 +396,7 @@ DSA || CP
 | [0169-majority-element](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Simulation
