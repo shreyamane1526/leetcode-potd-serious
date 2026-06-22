@@ -237,6 +237,7 @@ DSA || CP
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0067-add-binary) |
@@ -272,6 +273,7 @@ DSA || CP
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0063-unique-paths-ii) |
@@ -317,6 +319,7 @@ DSA || CP
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0018-4sum) |
