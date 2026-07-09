@@ -75,6 +75,7 @@ DSA || CP
 | [0792-binary-search](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0792-binary-search) |
 | [0931-minimum-falling-path-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0931-minimum-falling-path-sum) |
 | [0941-sort-array-by-parity](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0941-sort-array-by-parity) |
+| [0973-k-closest-points-to-origin](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0973-k-closest-points-to-origin) |
 | [0980-unique-paths-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1004-max-consecutive-ones-iii) |
@@ -159,6 +160,7 @@ DSA || CP
 | [0367-valid-perfect-square](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0415-add-strings) |
+| [0973-k-closest-points-to-origin](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1013-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -372,6 +374,7 @@ DSA || CP
 | [0561-array-partition](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0941-sort-array-by-parity) |
+| [0973-k-closest-points-to-origin](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1137-height-checker) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -393,6 +396,7 @@ DSA || CP
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0493-reverse-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -536,6 +540,7 @@ DSA || CP
 | [0451-sort-characters-by-frequency](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1631-path-with-minimum-effort) |
 | [2974-minimum-number-game](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2974-minimum-number-game) |
 ## Stack
@@ -633,6 +638,7 @@ DSA || CP
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0973-k-closest-points-to-origin) |
 ## Combinatorics
 |  |
 | ------- |
@@ -681,4 +687,8 @@ DSA || CP
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0451-sort-characters-by-frequency) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
