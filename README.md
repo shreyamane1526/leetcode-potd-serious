@@ -468,6 +468,7 @@ DSA || CP
 | [1306-jump-game-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1631-path-with-minimum-effort) |
+| [2685-count-the-number-of-complete-components](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -493,6 +494,7 @@ DSA || CP
 | [1306-jump-game-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1631-path-with-minimum-effort) |
+| [2685-count-the-number-of-complete-components](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2685-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
@@ -586,6 +588,7 @@ DSA || CP
 | [0547-number-of-provinces](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0547-number-of-provinces) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1631-path-with-minimum-effort) |
+| [2685-count-the-number-of-complete-components](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
@@ -596,6 +599,7 @@ DSA || CP
 | [0802-find-eventual-safe-states](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0802-find-eventual-safe-states) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2685-count-the-number-of-complete-components](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
