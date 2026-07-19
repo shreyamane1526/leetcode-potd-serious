@@ -165,6 +165,7 @@ DSA || CP
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1922-count-good-numbers) |
 | [2652-sum-multiples](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -183,6 +184,7 @@ DSA || CP
 | [0050-powx-n](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
