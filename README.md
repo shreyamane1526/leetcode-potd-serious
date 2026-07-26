@@ -248,6 +248,7 @@ DSA || CP
 | [0005-longest-palindromic-substring](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0125-valid-palindrome) |
@@ -555,6 +556,7 @@ DSA || CP
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0145-binary-tree-postorder-traversal) |
