@@ -26,6 +26,7 @@ DSA || CP
 | [0066-plus-one](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0090-subsets-ii) |
@@ -207,6 +208,7 @@ DSA || CP
 | [0040-combination-sum-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0980-unique-paths-iii) |
@@ -251,6 +253,7 @@ DSA || CP
 | [0020-valid-parentheses](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0151-reverse-words-in-a-string) |
@@ -456,6 +459,7 @@ DSA || CP
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -525,6 +529,7 @@ DSA || CP
 | [0054-spiral-matrix](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0240-search-a-2d-matrix-ii) |
