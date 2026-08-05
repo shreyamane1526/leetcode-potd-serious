@@ -1,52 +1,42 @@
 class Solution {
-    public static boolean solve(char[][] board){
-        int[] pos=emptyPos(board);
-        if(pos==null){
-            return true;
-        }
-        int emptyx=pos[0],emptyy=pos[1];
+    boolean isSafe(int r,int c,char[][] board,char ch){
         for(int i=0;i<9;i++){
-            if(isValid(emptyx,emptyy,board,i+1)){            board[emptyx][emptyy]=(char)('0'+i+1);
-                if(solve(board)){
-                    return true;
-                }
-                board[emptyx][emptyy]='.';
+            if(board[r][i]==ch){
+                return  false;
+            }
+            if(board[i][c]==ch){
+                return false;
+            }
+            int a=3*(r/3)+i/3;
+            int b=3*(c/3)+i%3;
+            if(board[a][b]==ch){
+                return false;
             }
         }
-        return false;
+        return true;
     }
-    public static int[] emptyPos(char[][] board){
+    boolean backtrack(char[][] board){
         for(int i=0;i<9;i++){
             for(int j=0;j<9;j++){
                 if(board[i][j]=='.'){
-                    return new int[]{i,j};
-                }
-            }
-        }
-        return null;
-    }
-    public static boolean isValid(int x,int y,char[][] board,int num){
-        for(int i=0;i<9;i++){
-            if(board[x][i]!='.' && board[x][i]-'0'==num){
-                return false;
-            }
-            if(board[i][y]!='.' && board[i][y]-'0'==num){
-                return false;
-            }
-        }
-        int r=(x/3)*3;
-        int c=(y/3)*3;
-        for(int i=r;i<r+3;i++){
-            for(int j=c;j<c+3;j++){
-                if(board[i][j]!='.' && board[i][j]-'0'==num){
+                    for(char k='1';k<='9';k++){                       
+                        if(isSafe(i,j,board,k)){
+                            board[i][j]=k;
+                            if(backtrack(board)){
+                                return true;
+                            }                          
+                            board[i][j]='.';
+                        }
+                        
+                    }
                     return false;
                 }
             }
         }
         return true;
+        
     }
     public void solveSudoku(char[][] board) {
-        solve(board);
-       // System.out.println(board);
+        backtrack(board);
     }
 }
