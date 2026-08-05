@@ -716,5 +716,10 @@ DSA || CP
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
