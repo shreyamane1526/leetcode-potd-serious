@@ -159,6 +159,7 @@ DSA || CP
 | [0171-excel-sheet-column-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0282-expression-add-operators) |
 | [0367-valid-perfect-square](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0415-add-strings) |
@@ -212,6 +213,7 @@ DSA || CP
 | [0078-subsets](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0090-subsets-ii) |
+| [0282-expression-add-operators](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0980-unique-paths-iii) |
 ## Hash Table
@@ -264,6 +266,7 @@ DSA || CP
 | [0205-isomorphic-strings](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0392-is-subsequence) |
