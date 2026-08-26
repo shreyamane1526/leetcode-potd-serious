@@ -26,7 +26,7 @@ class Solution {
                     prev=cur;
                 }
                 first++;
-                while(first<=n && s.charAt(first)!='1'){
+                while(first<n && s.charAt(first)!='1'){
                     first++;
                 }
                 c--;
