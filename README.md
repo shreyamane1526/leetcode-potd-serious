@@ -284,6 +284,7 @@ DSA || CP
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1903-largest-odd-number-in-string) |
 | [1944-truncate-sentence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1944-truncate-sentence) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3019-number-of-changing-keys) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -662,6 +663,7 @@ DSA || CP
 | [0643-maximum-average-subarray-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Quickselect
 |  |
 | ------- |
