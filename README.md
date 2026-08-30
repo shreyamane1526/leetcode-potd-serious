@@ -101,6 +101,7 @@ DSA || CP
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1901-find-a-peak-element-ii) |
 | [1944-truncate-sentence](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1944-truncate-sentence) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2574-left-and-right-sum-differences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -336,6 +337,7 @@ DSA || CP
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shreyamane1526/leetcode-potd-serious/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
